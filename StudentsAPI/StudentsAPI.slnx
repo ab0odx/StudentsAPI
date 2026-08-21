@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Models/Models.csproj" />
+  <Project Path="../Students_Business/Students_Business.csproj" />
+  <Project Path="../Students_DataAcess/Students_DataAcess.csproj" />
+  <Project Path="StudentsAPI.csproj" />
+</Solution>

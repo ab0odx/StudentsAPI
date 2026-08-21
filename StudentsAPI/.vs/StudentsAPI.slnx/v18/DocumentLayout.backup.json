@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abood\\source\\repos\\StudentsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA90D5D5-CE30-4CA4-A0B3-81028AA11A1B}|StudentsAPI.csproj|c:\\users\\abood\\source\\repos\\studentsapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA90D5D5-CE30-4CA4-A0B3-81028AA11A1B}|StudentsAPI.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56177F2-9746-4C13-845C-B446C6CC7175}|..\\Students_Business\\Students_Business.csproj|c:\\users\\abood\\source\\repos\\students_business\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4882F57-840F-42B5-8979-51EEEF396AB1}|..\\Students_DataAcess\\Students_DataAcess.csproj|c:\\users\\abood\\source\\repos\\students_dataacess\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4882F57-840F-42B5-8979-51EEEF396AB1}|..\\Students_DataAcess\\Students_DataAcess.csproj|c:\\users\\abood\\source\\repos\\students_dataacess\\students_dataacess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA90D5D5-CE30-4CA4-A0B3-81028AA11A1B}|StudentsAPI.csproj|c:\\users\\abood\\source\\repos\\studentsapi\\studentsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA90D5D5-CE30-4CA4-A0B3-81028AA11A1B}|StudentsAPI.csproj|solutionrelative:studentsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\Students_DataAcess\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Students_DataAcess\\StudentsRepository.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\Students_DataAcess\\StudentsRepository.cs",
+              "RelativeToolTip": "..\\Students_DataAcess\\StudentsRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:19:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsAPI",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\StudentsAPI\\StudentsAPI.csproj",
+              "RelativeDocumentMoniker": "StudentsAPI.csproj",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\StudentsAPI\\StudentsAPI.csproj",
+              "RelativeToolTip": "StudentsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T12:30:00.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students_DataAcess",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\Students_DataAcess\\Students_DataAcess.csproj",
+              "RelativeDocumentMoniker": "..\\Students_DataAcess\\Students_DataAcess.csproj",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\Students_DataAcess\\Students_DataAcess.csproj",
+              "RelativeToolTip": "..\\Students_DataAcess\\Students_DataAcess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T12:19:00.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\StudentsAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\StudentsAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:11:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\Students_Business\\StudentsService.cs",
+              "RelativeDocumentMoniker": "..\\Students_Business\\StudentsService.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\Students_Business\\StudentsService.cs",
+              "RelativeToolTip": "..\\Students_Business\\StudentsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:08:35.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

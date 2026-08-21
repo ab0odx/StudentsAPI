@@ -1,0 +1,14 @@
+C:\Users\abood\source\repos\Students_Client\bin\Debug\net8.0\Students_Client.exe
+C:\Users\abood\source\repos\Students_Client\bin\Debug\net8.0\Students_Client.deps.json
+C:\Users\abood\source\repos\Students_Client\bin\Debug\net8.0\Students_Client.runtimeconfig.json
+C:\Users\abood\source\repos\Students_Client\bin\Debug\net8.0\Students_Client.dll
+C:\Users\abood\source\repos\Students_Client\bin\Debug\net8.0\Students_Client.pdb
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.AssemblyInfoInputs.cache
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.AssemblyInfo.cs
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.csproj.CoreCompileInputs.cache
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.dll
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\refint\Students_Client.dll
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.pdb
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\Students_Client.genruntimeconfig.cache
+C:\Users\abood\source\repos\Students_Client\obj\Debug\net8.0\ref\Students_Client.dll

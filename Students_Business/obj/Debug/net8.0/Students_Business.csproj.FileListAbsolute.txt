@@ -1,0 +1,17 @@
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Students_Business.deps.json
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Students_Business.dll
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Students_Business.pdb
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Models.dll
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Students_DataAcess.dll
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Models.pdb
+C:\Users\abood\source\repos\Students_Business\bin\Debug\net8.0\Students_DataAcess.pdb
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.csproj.AssemblyReference.cache
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.AssemblyInfoInputs.cache
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.AssemblyInfo.cs
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.csproj.CoreCompileInputs.cache
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students.A60421D6.Up2Date
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.dll
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\refint\Students_Business.dll
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\Students_Business.pdb
+C:\Users\abood\source\repos\Students_Business\obj\Debug\net8.0\ref\Students_Business.dll
