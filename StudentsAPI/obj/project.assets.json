@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net8.0": {
       "Microsoft.Bcl.Cryptography/8.0.0": {
@@ -1691,31 +1691,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abood\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/abood/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abood\\source\\repos\\StudentsApi\\StudentsAPI.csproj",
+      "projectUniqueName": "/home/abood/RiderProjects/StudentsAPI_Project/StudentsAPI/StudentsAPI.csproj",
       "projectName": "StudentsAPI",
-      "projectPath": "C:\\Users\\abood\\source\\repos\\StudentsApi\\StudentsAPI.csproj",
-      "packagesPath": "C:\\Users\\abood\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abood\\source\\repos\\StudentsApi\\obj\\",
+      "projectPath": "/home/abood/RiderProjects/StudentsAPI_Project/StudentsAPI/StudentsAPI.csproj",
+      "packagesPath": "/home/abood/.nuget/packages/",
+      "outputPath": "/home/abood/RiderProjects/StudentsAPI_Project/StudentsAPI/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\abood\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/abood/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1723,11 +1716,11 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\abood\\source\\repos\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\abood\\source\\repos\\Models\\Models.csproj"
+            "/home/abood/RiderProjects/StudentsAPI_Project/Models/Models.csproj": {
+              "projectPath": "/home/abood/RiderProjects/StudentsAPI_Project/Models/Models.csproj"
             },
-            "C:\\Users\\abood\\source\\repos\\Students_Business\\Students_Business.csproj": {
-              "projectPath": "C:\\Users\\abood\\source\\repos\\Students_Business\\Students_Business.csproj"
+            "/home/abood/RiderProjects/StudentsAPI_Project/Students_Business/Students_Business.csproj": {
+              "projectPath": "/home/abood/RiderProjects/StudentsAPI_Project/Students_Business/Students_Business.csproj"
             }
           }
         }
@@ -1742,7 +1735,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -1765,6 +1758,16 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.32, 8.0.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.32, 8.0.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1773,7 +1776,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.113/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
